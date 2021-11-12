@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 **jangsuyeongg/jangsuyeongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+기본 포트폴리오 https://jangsuyeongg.github.io
+프로젝트 https://github.com/jangsuyeongg/project
+노션 프로젝트 포트폴리오 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
