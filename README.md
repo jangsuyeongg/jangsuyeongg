@@ -1,4 +1,4 @@
-### Hi there 👋
+👋
 
 **jangsuyeongg/jangsuyeongg** is a ✨ _special_ ✨ repository <br/>
 about me https://jangsuyeongg.github.io <br/>
